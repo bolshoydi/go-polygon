@@ -3,6 +3,12 @@ _______________________
 
 Small project that shows how to work with [goes](https://github.com/libgeos/geos) library in golang.
 
+## Build
+
+```bash
+$ go build
+```
+
 ## Main
 
 * Main file loads 2 csv files (Polygon and Points) in corresponding structures.
