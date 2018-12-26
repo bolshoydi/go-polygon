@@ -1,7 +1,7 @@
 # Geos in go 
 _______________________ 
 
-Small project that shows how to work with [goes](https://github.com/libgeos/geos) library in golang.
+Small project that shows how to work with [geos](https://github.com/libgeos/geos) library in golang.
 
 ## Build
 
